@@ -1,0 +1,10 @@
+requests
+requests-oauthlib
+atlassian-python-api
+sqlalchemy
+pandas
+streamlit
+plotly
+python-dotenv
+psycopg2-binary
+pytest
