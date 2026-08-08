@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+
+# SQLite database
+*.db
+
+# Environment files
+.env
+
+# IDE and editor settings
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Streamlit config
+.streamlit/
